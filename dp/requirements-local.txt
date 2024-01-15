@@ -1,0 +1,4 @@
+-r requirements.txt
+-r backend/runtime/requirements-local.txt
+# -r tests/requirements.txt - not sure this is right requirements
+yamllint

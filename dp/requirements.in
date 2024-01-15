@@ -1,0 +1,16 @@
+# python -m pip install --upgrade pip
+# python -m pip install pip-tools
+# python -m piptools compile --resolver=backtracking
+# python -m piptools sync
+
+aws-cdk-lib==v2.115
+aws_cdk.aws_lambda_python_alpha
+aws_cdk.aws_glue_alpha
+aws_cdk.aws_cognito_identitypool_alpha
+constructs
+aws_solutions_constructs.aws_cloudfront_s3
+# aws_analytics_reference_architectur
+checkov
+mkdocs
+pytz
+types-pytz
