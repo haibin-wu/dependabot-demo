@@ -39,7 +39,7 @@ aws-cdk-aws-glue-alpha==2.115.0a0
     # via -r requirements.in
 aws-cdk-aws-lambda-python-alpha==2.115.0a0
     # via -r requirements.in
-aws-cdk-lib==2.115.0
+aws-cdk-lib==2.121.1
     # via
     #   -r requirements.in
     #   aws-cdk-aws-cognito-identitypool-alpha
