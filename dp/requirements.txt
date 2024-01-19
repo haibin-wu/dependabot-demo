@@ -91,7 +91,7 @@ charset-normalizer==3.3.2
     # via
     #   checkov
     #   requests
-checkov==3.1.61
+checkov==3.1.67
     # via -r requirements.in
 click==8.1.7
     # via
