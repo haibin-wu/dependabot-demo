@@ -6,7 +6,7 @@
 #
 aiodns==3.1.1
     # via checkov
-aiohttp==3.9.1
+aiohttp==3.9.2
     # via
     #   checkov
     #   openai
