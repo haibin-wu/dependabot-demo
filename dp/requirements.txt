@@ -279,7 +279,7 @@ python-dateutil==2.8.2
     #   botocore
     #   ghp-import
     #   jsii
-pytz==2023.3.post1
+pytz==2024.1
     # via -r requirements.in
 pyyaml==6.0.1
     # via
