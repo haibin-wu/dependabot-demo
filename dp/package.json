@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-        "aws-cdk": "v2.115"
+        "aws-cdk": "v2.128"
     },
     "scripts": {
         "cdk": "npx cdk"
