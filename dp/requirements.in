@@ -3,7 +3,7 @@
 # python -m piptools compile --resolver=backtracking
 # python -m piptools sync
 
-aws-cdk-lib==v2.115
+aws-cdk-lib==v2.132.1
 aws_cdk.aws_lambda_python_alpha
 aws_cdk.aws_glue_alpha
 aws_cdk.aws_cognito_identitypool_alpha
